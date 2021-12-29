@@ -1,0 +1,3 @@
+class FavJadwalUpdateEvent {}
+
+class AuthErrorEvent {}
